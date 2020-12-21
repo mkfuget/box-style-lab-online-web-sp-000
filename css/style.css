@@ -4,7 +4,7 @@ body, html {
   font-family: Apple Chancery, cursive;
   margin: 0 auto;
   display: block;
- background-image: url("./images/white-wood.jpg");
+ background-image: url("../images/white-wood.jpg");
   text-align: center;
 }
 
