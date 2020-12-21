@@ -27,21 +27,31 @@ h4 {
   border: 1px solid #22aa44;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
-  background: linear-gradient(to right, #44cc66, #003003);
 
 }
 
 .indifferent {
   background-color: #dddd22;
   box-shadow:  -1px 1px #c7ba08, -2px 2px #c7ba08, -3px 3px #c7ba08, -4px 4px #c7ba08, -5px 5px #c7ba08;
-  background: linear-gradient(to right, #dddd22, #5a5c01);
 
 }
 
 .dubious {
   background-color: #dd4444;
   box-shadow:  -1px 1px #990505, -2px 2px #990505, -3px 3px #990505, -4px 4px #990505, -5px 5px #990505;
-  background: linear-gradient(to right, #dd4444, #520700);
+
+}
+h4.indifferent{
+    background: linear-gradient(to right, #44cc66, #003003);
+
+}
+
+h4.indifferent{
+    background: linear-gradient(to right, #dddd22, #5a5c01);
+
+}
+h4.dubious{
+    background: linear-gradient(to right, #dd4444, #520700);
 
 }
 
